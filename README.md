@@ -14,7 +14,7 @@ E iniciano o aprendizado de;
 
 Redes socias para contatu;
 
-<a href="www.facebook.com/gabriel.luis.631297">
+<a href="https://www.facebook.com/gabriel.luis.631297">
 <img src="https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white" alt="facebook-logo" target="_blank"/>
 
 <a href="mailto:08gabrielluis08@gmail.com">
